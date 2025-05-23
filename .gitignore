@@ -1,0 +1,56 @@
+# --- SISTEMA ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- VSCODE ---
+.vscode/
+
+# --- DATOS FUENTES Y EXTRAÍDOS ---
+datos_zip/
+datos_extraidos/
+*.zip
+*.csv
+*.CSV
+*.SAV
+*.DTA
+*.sav
+*.dta
+
+# --- ENTORNOS VIRTUALES ---
+venv/
+env/
+.venv/
+.env/
+
+# --- ARCHIVOS TEMPORALES ---
+*.tmp
+*.log
+*.bak
+*.swp
+~$*
+
+# --- JUPYTER NOTEBOOK CHECKPOINTS ---
+.ipynb_checkpoints/
+
+# --- ARCHIVOS DE CACHE DE PYTHON ---
+__pycache__/
+*.py[cod]
+*.pyo
+
+# --- CONFIGURACIÓN PERSONAL (por usuario) ---
+*.code-workspace
+*.sublime-workspace
+*.sublime-project
+
+# --- RESULTADOS, MODELOS, EXPORTACIONES ---
+*.pkl
+*.joblib
+*.h5
+*.model
+*.xlsx
+*.xls
+
+# --- BASE DE DATOS LOCAL ---
+*.sqlite
+*.db
