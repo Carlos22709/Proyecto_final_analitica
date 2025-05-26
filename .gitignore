@@ -44,7 +44,6 @@ __pycache__/
 *.sublime-project
 
 # --- RESULTADOS, MODELOS, EXPORTACIONES ---
-*.pkl
 *.joblib
 *.h5
 *.model
