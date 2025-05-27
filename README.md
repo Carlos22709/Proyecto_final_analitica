@@ -23,7 +23,7 @@ La aplicación se encuentra desplegada en Streamlit Cloud:
 
 ---
 
-## 🧪 Reproducibilidad
+## Reproducibilidad
 
 Los siguientes archivos se incluyen en el repositorio del proyecto:
 
